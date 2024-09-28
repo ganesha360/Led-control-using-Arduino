@@ -1,6 +1,6 @@
-## Developed By : GANESH R
+## Name: GANESH R
 ## Register No : 212222240029
-# Led-control-using-Arduino
+# EX-01-Led-control-using-Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
